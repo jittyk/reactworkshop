@@ -1,1 +1,2 @@
-Jittyreact
+Jitty React Workshop 
+Day 1
